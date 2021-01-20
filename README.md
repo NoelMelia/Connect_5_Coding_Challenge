@@ -4,7 +4,7 @@
 The Game is a Connect 5. A server for a multiple 2-player game. 
 It listen for 2 clients to connects and creates a thread for each Player 1 and 2. 
 The client and server communicate through messages back and forth to each other. 
-Messages correspond to the Game protocol. 
+Messages correspond to the Game protocol. Eclipse was used for the completion of this task and Java 15. 
 
 There was a lot of research and projects that I found on Github that influenced this project. 
 
