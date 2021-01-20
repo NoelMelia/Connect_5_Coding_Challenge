@@ -11,10 +11,10 @@ There was a lot of research and projects that I found on Github that influenced 
 
 ### How to Run
 1. Open the Client and Server java files.
-2. Run the Server First and then 2 Client files for 2 player
-3. Enter the name in the command line to display on screen of the GUI (Do for both Clients)
-4. Displayed will be 2 GUI Interfaces that are the Game of Connect 5
-5. Play until the one person Wins or Disconnects
+2. Run the Server First and then 2 Client files for 2 player. 2 players must be connected for appliaction to begin. 
+3. Enter a Player name in the command line to display on screen of the GUI (Do for both Clients). 
+4. Displayed will be 2 GUI Interfaces that are the Game of Connect 5. 
+5. Play until the one person Wins or Disconnects. 
 
 ### References
 https://cs.lmu.edu/~ray/notes/javanetexamples/
